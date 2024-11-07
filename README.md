@@ -1,5 +1,5 @@
 # text-to-sentiment-clf
-This is one of my pet projects. It is classifies texts based on their sentiment (positive, negative, and neutral).
+This is one of my pet projects. It classifies texts based on their sentiment (positive, negative, and neutral).
 This project uses 2 ML models for this:
   1) Logit Regression (multinominal regression)
 
@@ -25,4 +25,4 @@ Datasets on which the models were trained:
 
 
 
-P.S. You could use the code, but the training data isn't mine, so you'll have to look up licences of these datasets.
+P.S. You could use the code, but the training data isn't mine, so you'll have to look up the datasets' licences.

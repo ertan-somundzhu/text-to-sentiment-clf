@@ -14,7 +14,7 @@ This project uses 2 ML models for this:
 
 Libraries used: Pandas, NLTK, Re, Joblib, and Scikit-learn.
 
-Datasets on which models were trained: 
+Datasets on which the models were trained: 
   1) Social Media Sentiments Analysis Dataset (sentimentdataset.csv) (https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
   2) Twitter Emotion (twitter emotions.csv) (https://www.kaggle.com/datasets/phantomrider/twitter-emotion)
   3) Emotion Detection from Text (tweet_emotions.csv) (https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text)

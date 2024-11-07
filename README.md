@@ -6,7 +6,7 @@ This project uses 2 ML models for this:
      Accuracy on training data = 0.88139750462054
 
      Accuracy on testing data = 0.8443275641689986
-  3) Stochastic Gradient Descent Classifier (with solver set to "hinge" which gives a linear SVM)
+  2) Stochastic Gradient Descent Classifier (with solver set to "hinge" which gives a linear SVM)
 
      Accuracy on training data = 0.9250522509658512
 

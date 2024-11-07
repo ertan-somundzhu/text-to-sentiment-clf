@@ -25,4 +25,4 @@ Datasets on which models were trained:
 
 
 
-P.S. You could use the code, but the traing data isn't mine, so you'll have to look up licences of these datasets.
+P.S. You could use the code, but the training data isn't mine, so you'll have to look up licences of these datasets.

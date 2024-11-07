@@ -1,7 +1,7 @@
 # text-to-sentiment-clf
 This is one of my pet projects. It is classifies texts based on their sentiment (positive, negative, anf neutral).
 This project uses 2 ML models for this:
-  1) Logit Regression (multinominal regression)/nAccuracy on training data = 0.88139750462054
+  1) Logit Regression (multinominal regression)\nAccuracy on training data = 0.88139750462054
      Accuracy on testing data = 0.8443275641689986
   3) Stochastic Gradient Descent Classifier (with solver set to "hinge" which gives a linear SVM)
      Accuracy on training data = 0.9250522509658512
